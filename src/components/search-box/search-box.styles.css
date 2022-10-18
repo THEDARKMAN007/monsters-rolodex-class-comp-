@@ -1,0 +1,17 @@
+.search-box {
+  -webkit-appearance: none;
+  border: none;
+  outline: none;
+  padding: 10px;
+  width: 12em;
+  height: 2em;
+  line-height: 30px;
+  margin-bottom: 30px;
+  font-size: 3em;
+}
+
+input::placeholder{
+  font-size: 1em;
+  display: flex;
+  text-align: center;
+}
